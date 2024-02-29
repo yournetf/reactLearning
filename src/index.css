@@ -45,3 +45,27 @@
         border-radius: 5px;
         margin: 0;
 }
+
+.listCategory{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+
+.listItems li{
+    font-size: 2em;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+.listItems li:hover{
+    color: rgb(255, 6, 6);
+    cursor: pointer;
+}
